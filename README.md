@@ -7,7 +7,6 @@
  
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SangJinHyun)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SangJinHyun&count_private=true&theme=tokyonight&showicons=true)]()
 <!---
 SangJinHyun/SangJinHyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
