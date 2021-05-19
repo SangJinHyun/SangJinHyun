@@ -3,7 +3,7 @@
  🌱 I’m currently learning full stack development and curious about data visualization. \
  📫 I can be reached at: SangJinHyun@tutanota.com\
  📓Currently pursuing a Masters in Computer Science from the University of Illinois - Urbana Champaign.\
- 💬 I'm readily available to discuss increasing productivty, mathematical principles, and data structures.
+ 💬 I'm readily available to discuss increasing productivity, mathematical principles, and data structures.
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SangJinHyun)
 
 <!---
