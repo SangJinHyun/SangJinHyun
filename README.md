@@ -1,5 +1,5 @@
  👋 Greetings, I’m SangJin Hyun.\
- I’m interested in distance running, programming, and developing new skills to the limits.\
+ 🏃‍♂️I’m interested in distance running, programming, and developing new skills to the limits.\
  🌱 I’m currently learning full stack development and curious about data visualization. \
  📫 I can be reached at: SangJinHyun@tutanota.com\
  Currently pursuing a Masters in Computer Science from the University of Illinois - Urbana Champaign\
