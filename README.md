@@ -5,6 +5,7 @@
  📓Currently pursuing a Masters in Computer Science from the University of Illinois - Urbana Champaign.\
  💬 I'm readily available to discuss increasing productivity, mathematical principles, and data structures.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjinhyun&show_icons=true&theme=merko&?count_private=true)
 
 
 <!---
