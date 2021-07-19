@@ -1,6 +1,6 @@
  👋 Greetings, I am SangJin Hyun.\
  🏃‍♂️I am interested in ultra-distance running, programming, and chess.\
- 🌱 I am pursuing roles in full stack development and curious about data visualization. \
+ 🌱 I am pursuing new roles in full stack development and software developement \
  📫 I can be reached at: SangJinHyun2@outlook.com\
  📓 I am currently in a Masters in Computer Science from the University of Illinois at Urbana Champaign.\
  💬 I am readily available to discuss increasing productivity, coding data structures, and data representation. 
