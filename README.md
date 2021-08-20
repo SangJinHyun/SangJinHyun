@@ -1,4 +1,4 @@
- 👋 Greetings, I am SangJin Hyun.\
+ Greetings, I am SangJin Hyun.\
  I am interested in ultra-distance running, programming, and chess.\
  🌱 I am pursuing new roles in full stack development and software roles as a java developer \
  I can be reached at: SangJinHyun2@outlook.com\
