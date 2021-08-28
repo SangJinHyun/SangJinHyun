@@ -1,9 +1,4 @@
  Greetings, I am SangJin Hyun.\
- I am interested in ultra-distance running, programming, and chess.\
- 🌱 I am pursuing new roles in full stack development \
- I can be reached at: SangJinHyun2@outlook.com\
- I am in a Masters in Computer Science from the University of Illinois at Urbana Champaign.\
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjinhyun&show_icons=true&theme=merko&?count_private=true)
 
