@@ -2,6 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangJinHyun&theme=merko)
 
+Avoid broken windows
 
 <!---
 SangJinHyun/SangJinHyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
